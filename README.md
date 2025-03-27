@@ -13,6 +13,8 @@
 
 Here are some ideas to get you started:
 
-- 👯 I’m looking to collaborate on Java/Spring Boot projects
+
 
 -->
+
+- 👯 I’m looking to collaborate on Java/Spring Boot projects
